@@ -1,0 +1,4344 @@
+[{
+  "_id": {
+    "$oid": "64b8088e0f6d23ac8974e914"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "884346cb-f7d8-4e4b-b721-d1cfeaa9d50e",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "file:///Users/neryaelul/Documents/th/index.html",
+        "origin": "file://",
+        "protocol": "file:",
+        "host": "",
+        "hostname": "",
+        "port": "",
+        "pathname": "/Users/neryaelul/Documents/th/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1689782413736"
+  },
+  "date": "19.7.2023, 16:00:13",
+  "sp": [
+    {
+      "date": "22.7.2023, 16:29:02",
+      "unixtime": {
+        "$numberLong": "1690043342183"
+      },
+      "session_key": "dfdf",
+      "point_key": "pointKey"
+    },
+    {
+      "date": "22.7.2023, 16:38:10",
+      "unixtime": {
+        "$numberLong": "1690043890590"
+      },
+      "session_key": "dfdf",
+      "point_key": "pointKey"
+    },
+    {
+      "date": "22.7.2023, 16:39:27",
+      "unixtime": {
+        "$numberLong": "1690043967604"
+      },
+      "session_key": "dfdf",
+      "point_key": "pointKey"
+    },
+    {
+      "date": "22.7.2023, 16:50:31",
+      "unixtime": {
+        "$numberLong": "1690044631891"
+      },
+      "session_key": "dfdf",
+      "point_key": "pointKey"
+    }
+  ],
+  "user": [
+    "7b6364e26998a3cd4fbb3279690681d1388c6520a74c38680225b18488495cc8",
+    "7b6364e26998a3cd4fbb3279690681d1388c6520a74c38680225b18488495cc8",
+    "7b6364e26998a3cd4fbb3279690681d1388c6520a74c38680225b18488495cc8",
+    "7b6364e26998a3cd4fbb3279690681d1388c6520a74c38680225b18488495cc8"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8088f169ed2529b6d89b0"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "884346cb-f7d8-4e4b-b721-d1cfeaa9d50e",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 48,
+    "pageY": 99,
+    "clientX": 48,
+    "clientY": 71
+  },
+  "unix": {
+    "$numberLong": "1689782414388"
+  },
+  "date": "19.7.2023, 16:00:14"
+},
+{
+  "_id": {
+    "$oid": "64b80890169ed2529b6d89b1"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "884346cb-f7d8-4e4b-b721-d1cfeaa9d50e",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 17,
+    "pageY": 102,
+    "clientX": 17,
+    "clientY": 74
+  },
+  "unix": {
+    "$numberLong": "1689782414388"
+  },
+  "date": "19.7.2023, 16:00:14"
+},
+{
+  "_id": {
+    "$oid": "64b80891169ed2529b6d89b2"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "884346cb-f7d8-4e4b-b721-d1cfeaa9d50e",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 17,
+    "pageY": 100,
+    "clientX": 17,
+    "clientY": 72
+  },
+  "unix": {
+    "$numberLong": "1689782414388"
+  },
+  "date": "19.7.2023, 16:00:14"
+},
+{
+  "_id": {
+    "$oid": "64b80892169ed2529b6d89b3"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "884346cb-f7d8-4e4b-b721-d1cfeaa9d50e",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 24,
+    "pageY": 98,
+    "clientX": 24,
+    "clientY": 70
+  },
+  "unix": {
+    "$numberLong": "1689782414388"
+  },
+  "date": "19.7.2023, 16:00:14"
+},
+{
+  "_id": {
+    "$oid": "64bbdbe74d61e5eae2867cf7"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "file:///Users/neryaelul/Documents/th/index.html",
+        "origin": "file://",
+        "protocol": "file:",
+        "host": "",
+        "hostname": "",
+        "port": "",
+        "pathname": "/Users/neryaelul/Documents/th/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690033126629"
+  },
+  "date": "22.7.2023, 13:38:46"
+},
+{
+  "_id": {
+    "$oid": "64bbdc634d61e5eae2867cf8"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "file:///Users/neryaelul/Documents/th/index.html",
+        "origin": "file://",
+        "protocol": "file:",
+        "host": "",
+        "hostname": "",
+        "port": "",
+        "pathname": "/Users/neryaelul/Documents/th/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690033126629"
+  },
+  "date": "22.7.2023, 13:38:46"
+},
+{
+  "_id": {
+    "$oid": "64bbdc8842e4fdda926dac54"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "file:///Users/neryaelul/Documents/th/index.html",
+        "origin": "file://",
+        "protocol": "file:",
+        "host": "",
+        "hostname": "",
+        "port": "",
+        "pathname": "/Users/neryaelul/Documents/th/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690033288211"
+  },
+  "date": "22.7.2023, 13:41:28"
+},
+{
+  "_id": {
+    "$oid": "64bbdc8b42e4fdda926dac55"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 37,
+    "pageY": 90,
+    "clientX": 37,
+    "clientY": 90
+  },
+  "unix": {
+    "$numberLong": "1690033288211"
+  },
+  "date": "22.7.2023, 13:41:28"
+},
+{
+  "_id": {
+    "$oid": "64bbdc8f4d61e5eae2867cf9"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 49,
+    "pageY": 94,
+    "clientX": 49,
+    "clientY": 94
+  },
+  "unix": {
+    "$numberLong": "1690033126629"
+  },
+  "date": "22.7.2023, 13:38:46"
+},
+{
+  "_id": {
+    "$oid": "64bbdc9742e4fdda926dac56"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 48,
+    "pageY": 94,
+    "clientX": 48,
+    "clientY": 94
+  },
+  "unix": {
+    "$numberLong": "1690033288211"
+  },
+  "date": "22.7.2023, 13:41:28"
+},
+{
+  "_id": {
+    "$oid": "64bbdc9842e4fdda926dac57"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 49,
+    "pageY": 95,
+    "clientX": 49,
+    "clientY": 95
+  },
+  "unix": {
+    "$numberLong": "1690033288211"
+  },
+  "date": "22.7.2023, 13:41:28"
+},
+{
+  "_id": {
+    "$oid": "64bbde28f8b67e426b780a74"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "file:///Users/neryaelul/Documents/th/index.html",
+        "origin": "file://",
+        "protocol": "file:",
+        "host": "",
+        "hostname": "",
+        "port": "",
+        "pathname": "/Users/neryaelul/Documents/th/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690033703939"
+  },
+  "date": "22.7.2023, 13:48:23"
+},
+{
+  "_id": {
+    "$oid": "64bbe07f3c8e5c45a279932d"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 59,
+    "pageY": 101,
+    "clientX": 59,
+    "clientY": 101
+  },
+  "unix": {
+    "$numberLong": "1690034281400"
+  },
+  "date": "22.7.2023, 13:58:01"
+},
+{
+  "_id": {
+    "$oid": "64bbe0850e4cba5d48974e62"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 50,
+    "pageY": 101,
+    "clientX": 50,
+    "clientY": 101
+  },
+  "unix": {
+    "$numberLong": "1690034302966"
+  },
+  "date": "22.7.2023, 13:58:22"
+},
+{
+  "_id": {
+    "$oid": "64bbe0a50e4cba5d48974e63"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MAIN",
+    "textContent": "\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 517,
+    "pageY": 179,
+    "clientX": 517,
+    "clientY": 179
+  },
+  "unix": {
+    "$numberLong": "1690034302966"
+  },
+  "date": "22.7.2023, 13:58:22"
+},
+{
+  "_id": {
+    "$oid": "64bbe18b0e4cba5d48974e64"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MENU",
+    "textContent": "\n\t\t   Home \n\t    ",
+    "className": "",
+    "id": "navmenu",
+    "pageX": 800,
+    "pageY": 62,
+    "clientX": 800,
+    "clientY": 62
+  },
+  "unix": {
+    "$numberLong": "1690034302966"
+  },
+  "date": "22.7.2023, 13:58:22"
+},
+{
+  "_id": {
+    "$oid": "64bbe18c3cfbaa9d72e8a197"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 42,
+    "pageY": 96,
+    "clientX": 42,
+    "clientY": 96
+  },
+  "unix": {
+    "$numberLong": "1690034571506"
+  },
+  "date": "22.7.2023, 14:02:51"
+},
+{
+  "_id": {
+    "$oid": "64bbe18e3cfbaa9d72e8a198"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690034571506"
+  },
+  "date": "22.7.2023, 14:02:51"
+},
+{
+  "_id": {
+    "$oid": "64bbe1f83cfbaa9d72e8a199"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MAIN",
+    "textContent": "\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 346,
+    "pageY": 84,
+    "clientX": 346,
+    "clientY": 84
+  },
+  "unix": {
+    "$numberLong": "1690034571506"
+  },
+  "date": "22.7.2023, 14:02:51"
+},
+{
+  "_id": {
+    "$oid": "64bbe38396a6163498bf403e"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 52,
+    "pageY": 98,
+    "clientX": 52,
+    "clientY": 98
+  },
+  "unix": {
+    "$numberLong": "1690034571415"
+  },
+  "date": "22.7.2023, 14:02:51"
+},
+{
+  "_id": {
+    "$oid": "64bbe38796a6163498bf403f"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690034571415"
+  },
+  "date": "22.7.2023, 14:02:51"
+},
+{
+  "_id": {
+    "$oid": "64bbe3ae3c8e5c45a279932e"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "88cd0160-db53-4ad0-840b-f5596ec72d7e",
+  "session_key": "856d25db-da8b-4f74-be49-746bef16bdc2",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 48,
+    "pageY": 99,
+    "clientX": 48,
+    "clientY": 99
+  },
+  "unix": {
+    "$numberLong": "1690034281400"
+  },
+  "date": "22.7.2023, 13:58:01"
+},
+{
+  "_id": {
+    "$oid": "64bbe3b13c8e5c45a279932f"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "88cd0160-db53-4ad0-840b-f5596ec72d7e",
+  "session_key": "856d25db-da8b-4f74-be49-746bef16bdc2",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690034281400"
+  },
+  "date": "22.7.2023, 13:58:01"
+},
+{
+  "_id": {
+    "$oid": "64bbe3ee96a6163498bf4040"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "88cd0160-db53-4ad0-840b-f5596ec72d7e",
+  "session_key": "856d25db-da8b-4f74-be49-746bef16bdc2",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 49,
+    "pageY": 103,
+    "clientX": 49,
+    "clientY": 103
+  },
+  "unix": {
+    "$numberLong": "1690034571415"
+  },
+  "date": "22.7.2023, 14:02:51"
+},
+{
+  "_id": {
+    "$oid": "64bbe3ee3c8e5c45a2799330"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "88cd0160-db53-4ad0-840b-f5596ec72d7e",
+  "session_key": "856d25db-da8b-4f74-be49-746bef16bdc2",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690034281400"
+  },
+  "date": "22.7.2023, 13:58:01"
+},
+{
+  "_id": {
+    "$oid": "64bbfcc0f8f30e9a2e52cd7e"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H1",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 780,
+    "pageY": 133,
+    "clientX": 780,
+    "clientY": 133
+  },
+  "unix": {
+    "$numberLong": "1690041535920"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfcc4512c39d86620d9b7"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "3b280383-bbf6-41f7-89dc-d415b90f7655",
+  "session_key": "811452b7-b57d-49a4-b383-b2faed441b1b",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "file:///Users/neryaelul/Documents/th/index.html",
+        "origin": "file://",
+        "protocol": "file:",
+        "host": "",
+        "hostname": "",
+        "port": "",
+        "pathname": "/Users/neryaelul/Documents/th/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690041535887"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfcd3f8f30e9a2e52cd7f"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "3b280383-bbf6-41f7-89dc-d415b90f7655",
+  "session_key": "811452b7-b57d-49a4-b383-b2faed441b1b",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MAIN",
+    "textContent": "\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 403,
+    "pageY": 270,
+    "clientX": 403,
+    "clientY": 270
+  },
+  "unix": {
+    "$numberLong": "1690041535920"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfd00512c39d86620d9b8"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "3b280383-bbf6-41f7-89dc-d415b90f7655",
+  "session_key": "dbe98127-d759-4e0d-b2b7-93af6703f3a2",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "file:///Users/neryaelul/Documents/th/index.html",
+        "origin": "file://",
+        "protocol": "file:",
+        "host": "",
+        "hostname": "",
+        "port": "",
+        "pathname": "/Users/neryaelul/Documents/th/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690041535887"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfd1ff8f30e9a2e52cd80"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "3b280383-bbf6-41f7-89dc-d415b90f7655",
+  "session_key": "dbe98127-d759-4e0d-b2b7-93af6703f3a2",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "P",
+    "textContent": "HEADER",
+    "className": "",
+    "id": "",
+    "pageX": 457,
+    "pageY": 22,
+    "clientX": 457,
+    "clientY": 22
+  },
+  "unix": {
+    "$numberLong": "1690041535920"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfd97f8f30e9a2e52cd81"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "3b280383-bbf6-41f7-89dc-d415b90f7655",
+  "session_key": "dbe98127-d759-4e0d-b2b7-93af6703f3a2",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "file:///Users/neryaelul/Documents/th/index.html",
+        "origin": "file://",
+        "protocol": "file:",
+        "host": "",
+        "hostname": "",
+        "port": "",
+        "pathname": "/Users/neryaelul/Documents/th/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690041535920"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfd9a512c39d86620d9b9"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "3b280383-bbf6-41f7-89dc-d415b90f7655",
+  "session_key": "dbe98127-d759-4e0d-b2b7-93af6703f3a2",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H1",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 508,
+    "pageY": 152,
+    "clientX": 508,
+    "clientY": 152
+  },
+  "unix": {
+    "$numberLong": "1690041535887"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfe22512c39d86620d9ba"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690041535887"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfeecf8f30e9a2e52cd82"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 52,
+    "pageY": 99,
+    "clientX": 52,
+    "clientY": 99
+  },
+  "unix": {
+    "$numberLong": "1690041535920"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbfeedf8f30e9a2e52cd83"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690041535920"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bbff0df8f30e9a2e52cd84"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690041535920"
+  },
+  "date": "22.7.2023, 15:58:55"
+},
+{
+  "_id": {
+    "$oid": "64bc009d35a53cee1488105b"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MENU",
+    "textContent": "\n\t\t   Home \n\t    ",
+    "className": "",
+    "id": "navmenu",
+    "pageX": 599,
+    "pageY": 59,
+    "clientX": 599,
+    "clientY": 59
+  },
+  "unix": {
+    "$numberLong": "1690042524899"
+  },
+  "date": "22.7.2023, 16:15:24"
+},
+{
+  "_id": {
+    "$oid": "64bc009e8fcf03acdd5f3d93"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H4",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 176,
+    "pageY": 286,
+    "clientX": 176,
+    "clientY": 286
+  },
+  "unix": {
+    "$numberLong": "1690042525017"
+  },
+  "date": "22.7.2023, 16:15:24"
+},
+{
+  "_id": {
+    "$oid": "64bc00a08fcf03acdd5f3d94"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690042525017"
+  },
+  "date": "22.7.2023, 16:15:24"
+},
+{
+  "_id": {
+    "$oid": "64bc01a335a53cee1488105c"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690042524899"
+  },
+  "date": "22.7.2023, 16:15:24"
+},
+{
+  "_id": {
+    "$oid": "64bc01b035a53cee1488105d"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MAIN",
+    "textContent": "\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 661,
+    "pageY": 121,
+    "clientX": 661,
+    "clientY": 121
+  },
+  "unix": {
+    "$numberLong": "1690042524899"
+  },
+  "date": "22.7.2023, 16:15:24"
+},
+{
+  "_id": {
+    "$oid": "64bc01b58fcf03acdd5f3d95"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 558,
+    "pageY": 2867,
+    "clientX": 558,
+    "clientY": 98
+  },
+  "unix": {
+    "$numberLong": "1690042525017"
+  },
+  "date": "22.7.2023, 16:15:24"
+},
+{
+  "_id": {
+    "$oid": "64bc02be3de9d27e192430db"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690043068323"
+  },
+  "date": "22.7.2023, 16:24:28"
+},
+{
+  "_id": {
+    "$oid": "64bc02c83de9d27e192430dc"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 970,
+    "pageY": 2907,
+    "clientX": 970,
+    "clientY": 138
+  },
+  "unix": {
+    "$numberLong": "1690043068323"
+  },
+  "date": "22.7.2023, 16:24:28"
+},
+{
+  "_id": {
+    "$oid": "64bc02cb3de9d27e192430dd"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 970,
+    "pageY": 2907,
+    "clientX": 970,
+    "clientY": 138
+  },
+  "unix": {
+    "$numberLong": "1690043068323"
+  },
+  "date": "22.7.2023, 16:24:28"
+},
+{
+  "_id": {
+    "$oid": "64bc046555d1ccc16c8de433"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": null,
+  "unix": {
+    "$numberLong": "1690043342183"
+  },
+  "date": "22.7.2023, 16:29:02"
+},
+{
+  "_id": {
+    "$oid": "64bc052b55d1ccc16c8de434"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690043342183"
+  },
+  "date": "22.7.2023, 16:29:02"
+},
+{
+  "_id": {
+    "$oid": "64bc052b55d1ccc16c8de435"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 758,
+    "pageY": 2819,
+    "clientX": 758,
+    "clientY": 50
+  },
+  "unix": {
+    "$numberLong": "1690043342183"
+  },
+  "date": "22.7.2023, 16:29:02"
+},
+{
+  "_id": {
+    "$oid": "64bc05f3e8ac1dc4391f2830"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": null,
+  "unix": {
+    "$numberLong": "1690043890590"
+  },
+  "date": "22.7.2023, 16:38:10"
+},
+{
+  "_id": {
+    "$oid": "64bc05f9e8ac1dc4391f2831"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": {
+    "dsdsd": "dfdfdf"
+  },
+  "unix": {
+    "$numberLong": "1690043890590"
+  },
+  "date": "22.7.2023, 16:38:10"
+},
+{
+  "_id": {
+    "$oid": "64bc05ffe8ac1dc4391f2832"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": {
+    "dsdsd": "dfdfdf"
+  },
+  "unix": {
+    "$numberLong": "1690043890590"
+  },
+  "date": "22.7.2023, 16:38:10"
+},
+{
+  "_id": {
+    "$oid": "64bc06470dff8a9c9cc54542"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": {
+    "dsdsd": "dfdfdf"
+  },
+  "unix": {
+    "$numberLong": "1690043967604"
+  },
+  "date": "22.7.2023, 16:39:27"
+},
+{
+  "_id": {
+    "$oid": "64bc066bbcc5679cfccaf6fa"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690044011109"
+  },
+  "date": "22.7.2023, 16:40:11"
+},
+{
+  "_id": {
+    "$oid": "64bc066cbcc5679cfccaf6fb"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 877,
+    "pageY": 2781,
+    "clientX": 877,
+    "clientY": 12
+  },
+  "unix": {
+    "$numberLong": "1690044011109"
+  },
+  "date": "22.7.2023, 16:40:11"
+},
+{
+  "_id": {
+    "$oid": "64bc06740dff8a9c9cc54543"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html?browser=",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "?browser=",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690043967604"
+  },
+  "date": "22.7.2023, 16:39:27"
+},
+{
+  "_id": {
+    "$oid": "64bc0688bcc5679cfccaf6fc"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H2",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 601,
+    "pageY": 197,
+    "clientX": 601,
+    "clientY": 197
+  },
+  "unix": {
+    "$numberLong": "1690044011109"
+  },
+  "date": "22.7.2023, 16:40:11"
+},
+{
+  "_id": {
+    "$oid": "64bc07a5957a47802dab6314"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": {
+    "dsdsd": "dfdfdf"
+  },
+  "unix": {
+    "$numberLong": "1690044324583"
+  },
+  "date": "22.7.2023, 16:45:24"
+},
+{
+  "_id": {
+    "$oid": "64bc08e59faa91c0ad84b05f"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": {
+    "dsdsd": "dfdfdf"
+  },
+  "unix": {
+    "$numberLong": "1690044631891"
+  },
+  "date": "22.7.2023, 16:50:31"
+},
+{
+  "_id": {
+    "$oid": "64bc08eb9faa91c0ad84b060"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 604,
+    "pageY": 73,
+    "clientX": 604,
+    "clientY": 73
+  },
+  "unix": {
+    "$numberLong": "1690044631891"
+  },
+  "date": "22.7.2023, 16:50:31"
+},
+{
+  "_id": {
+    "$oid": "64bc08f19faa91c0ad84b061"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MAIN",
+    "textContent": "\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 258,
+    "pageY": 101,
+    "clientX": 258,
+    "clientY": 101
+  },
+  "unix": {
+    "$numberLong": "1690044631891"
+  },
+  "date": "22.7.2023, 16:50:31"
+},
+{
+  "_id": {
+    "$oid": "64bc0900c8d1e1411f72bb3c"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html?browser=",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "?browser=",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690044652778"
+  },
+  "date": "22.7.2023, 16:50:52"
+},
+{
+  "_id": {
+    "$oid": "64bc0904c8d1e1411f72bb3d"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "",
+    "pageX": 423,
+    "pageY": 3735,
+    "clientX": 423,
+    "clientY": 239
+  },
+  "unix": {
+    "$numberLong": "1690044652778"
+  },
+  "date": "22.7.2023, 16:50:52"
+},
+{
+  "_id": {
+    "$oid": "64bc09059faa91c0ad84b062"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html?browser=",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "?browser=",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690044631891"
+  },
+  "date": "22.7.2023, 16:50:31"
+},
+{
+  "_id": {
+    "$oid": "64bc090ac8d1e1411f72bb3e"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "FIGURE",
+    "textContent": "\n\t    \n\t     Caption.\n\t  ",
+    "className": "",
+    "id": "",
+    "pageX": 802,
+    "pageY": 3132,
+    "clientX": 802,
+    "clientY": 203
+  },
+  "unix": {
+    "$numberLong": "1690044652778"
+  },
+  "date": "22.7.2023, 16:50:52"
+},
+{
+  "_id": {
+    "$oid": "64bc090d9faa91c0ad84b063"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "FIGURE",
+    "textContent": "\n\t    \n\t     Caption.\n\t  ",
+    "className": "",
+    "id": "",
+    "pageX": 802,
+    "pageY": 3132,
+    "clientX": 802,
+    "clientY": 203
+  },
+  "unix": {
+    "$numberLong": "1690044631891"
+  },
+  "date": "22.7.2023, 16:50:31"
+},
+{
+  "_id": {
+    "$oid": "64bc0910c8d1e1411f72bb3f"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": null,
+  "ch_platform": null,
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "FIGURE",
+    "textContent": "\n\t    \n\t     Caption.\n\t  ",
+    "className": "",
+    "id": "",
+    "pageX": 802,
+    "pageY": 3132,
+    "clientX": 802,
+    "clientY": 203
+  },
+  "unix": {
+    "$numberLong": "1690044652778"
+  },
+  "date": "22.7.2023, 16:50:52"
+},
+{
+  "_id": {
+    "$oid": "64bc095c8f59bd56096f6757"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "user_agent": "PostmanRuntime/7.32.3",
+  "ch_platform": null,
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": {
+    "dsdsd": "dfdfdf"
+  },
+  "unix": {
+    "$numberLong": "1690044763578"
+  },
+  "date": "22.7.2023, 16:52:43"
+},
+{
+  "_id": {
+    "$oid": "64bc097b8f59bd56096f6758"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "FIGURE",
+    "textContent": "\n\t    \n\t     Caption.\n\t  ",
+    "className": "",
+    "id": "",
+    "pageX": 1213,
+    "pageY": 3150,
+    "clientX": 1213,
+    "clientY": 221
+  },
+  "unix": {
+    "$numberLong": "1690044763578"
+  },
+  "date": "22.7.2023, 16:52:43"
+},
+{
+  "_id": {
+    "$oid": "64bc097c136066c9d3b214ea"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html?browser=",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "?browser=",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690044795154"
+  },
+  "date": "22.7.2023, 16:53:15"
+},
+{
+  "_id": {
+    "$oid": "64bc097e136066c9d3b214eb"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "FIGURE",
+    "textContent": "\n\t    \n\t     Caption.\n\t  ",
+    "className": "",
+    "id": "",
+    "pageX": 1213,
+    "pageY": 3150,
+    "clientX": 1213,
+    "clientY": 221
+  },
+  "unix": {
+    "$numberLong": "1690044795154"
+  },
+  "date": "22.7.2023, 16:53:15"
+},
+{
+  "_id": {
+    "$oid": "64bc097f136066c9d3b214ec"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "FIGURE",
+    "textContent": "\n\t    \n\t     Caption.\n\t  ",
+    "className": "",
+    "id": "",
+    "pageX": 1213,
+    "pageY": 3150,
+    "clientX": 1213,
+    "clientY": 221
+  },
+  "unix": {
+    "$numberLong": "1690044795154"
+  },
+  "date": "22.7.2023, 16:53:15"
+},
+{
+  "_id": {
+    "$oid": "64bc09838f59bd56096f6759"
+  },
+  "key": "eaabd545b36cdcd2301d81e19aeb71372ed0c4bcfc9f315aebc45c4de33552b9",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "submit",
+    "target": {
+      "0": {},
+      "1": {}
+    },
+    "name": "",
+    "nodeName": "FORM",
+    "textContent": "\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690044763578"
+  },
+  "date": "22.7.2023, 16:52:43"
+},
+{
+  "_id": {
+    "$oid": "64bc0983f5d28fce1b085ae5"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "",
+    "pageX": 419,
+    "pageY": 3735,
+    "clientX": 419,
+    "clientY": 239
+  },
+  "unix": {
+    "$numberLong": "1690044796520"
+  },
+  "date": "22.7.2023, 16:53:16"
+},
+{
+  "_id": {
+    "$oid": "64bc0987f5d28fce1b085ae6"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MAIN",
+    "textContent": "\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 845,
+    "pageY": 105,
+    "clientX": 845,
+    "clientY": 105
+  },
+  "unix": {
+    "$numberLong": "1690044796520"
+  },
+  "date": "22.7.2023, 16:53:16"
+},
+{
+  "_id": {
+    "$oid": "64bc098c8f59bd56096f675a"
+  },
+  "key": "8d6df0c2d3f0b4dc0358a277a32021bbc16d0ad7cda8922644f8a5f2bd482b5e",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "type": "active_actions",
+  "point_key": "75ef573d-2f7a-44be-83fe-68d0d00cfed0",
+  "session_key": "20965dd1-9736-423f-a912-973f2dd8fbfb",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.html?browser=",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.html",
+        "search": "?browser=",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690044763578"
+  },
+  "date": "22.7.2023, 16:52:43"
+},
+{
+  "_id": {
+    "$oid": "64bc0d4c2f891fabf6ccbc11"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.230.151",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H1",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 714,
+    "pageY": 152,
+    "clientX": 714,
+    "clientY": 152
+  },
+  "unix": {
+    "$numberLong": "1690045771657"
+  },
+  "date": "22.7.2023, 17:09:31"
+},
+{
+  "_id": {
+    "$oid": "64bc0d4e8d5f31c3027b184d"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.230.151",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H1",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 714,
+    "pageY": 152,
+    "clientX": 714,
+    "clientY": 152
+  },
+  "unix": {
+    "$numberLong": "1690045771723"
+  },
+  "date": "22.7.2023, 17:09:31"
+},
+{
+  "_id": {
+    "$oid": "64bc0d508d5f31c3027b184e"
+  },
+  "key": "480831a0899f402061fe34d0be45ccb519e0bd1cd3f77b5362693a11db3c0cab",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.230.151",
+  "type": "active_actions",
+  "point_key": "ab92f289-404c-4200-8272-ec39b2abe498",
+  "session_key": "e80cef38-1255-423b-ab25-dbf8e4a31ee9",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H1",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 714,
+    "pageY": 152,
+    "clientX": 714,
+    "clientY": 152
+  },
+  "unix": {
+    "$numberLong": "1690045771723"
+  },
+  "date": "22.7.2023, 17:09:31"
+},
+{
+  "_id": {
+    "$oid": "64bc4e35953b321f8338ff37"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "user_agent": "PostmanRuntime/7.32.3",
+  "ch_platform": null,
+  "ip": "84.229.250.86",
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": {
+    "dsdsd": "dfdfdf"
+  },
+  "unix": {
+    "$numberLong": "1690062388454"
+  },
+  "date": "22.7.2023, 21:46:28"
+},
+{
+  "_id": {
+    "$oid": "64bc4e9a953b321f8338ff38"
+  },
+  "key": "8852e04ce9d0593fac3f60563f22d90650b49e8daeee8f897ecf718ef8e03e79",
+  "user_agent": "PostmanRuntime/7.32.3",
+  "ch_platform": null,
+  "ip": "84.229.250.86",
+  "type": "clicjjjjj",
+  "point_key": "pointKey",
+  "session_key": "dfdfdfdfdf",
+  "data": {
+    "dsdsd": "dfdfdf"
+  },
+  "unix": {
+    "$numberLong": "1690062388454"
+  },
+  "date": "22.7.2023, 21:46:28"
+},
+{
+  "_id": {
+    "$oid": "64bc6e86fba993d5c249a5e2"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.php?browser=",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.php",
+        "search": "?browser=",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690070097306"
+  },
+  "date": "22.7.2023, 23:54:57"
+},
+{
+  "_id": {
+    "$oid": "64bc6e8efba993d5c249a5e3"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 800,
+    "pageY": 668,
+    "clientX": 800,
+    "clientY": 108
+  },
+  "unix": {
+    "$numberLong": "1690070097306"
+  },
+  "date": "22.7.2023, 23:54:57"
+},
+{
+  "_id": {
+    "$oid": "64bc6e92fba993d5c249a5e4"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "LI",
+    "textContent": "List item",
+    "className": "",
+    "id": "",
+    "pageX": 1034,
+    "pageY": 633,
+    "clientX": 1034,
+    "clientY": 73
+  },
+  "unix": {
+    "$numberLong": "1690070097306"
+  },
+  "date": "22.7.2023, 23:54:57"
+},
+{
+  "_id": {
+    "$oid": "64bc6e94fba993d5c249a5e5"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "LI",
+    "textContent": "List item",
+    "className": "",
+    "id": "",
+    "pageX": 88,
+    "pageY": 710,
+    "clientX": 88,
+    "clientY": 150
+  },
+  "unix": {
+    "$numberLong": "1690070097306"
+  },
+  "date": "22.7.2023, 23:54:57"
+},
+{
+  "_id": {
+    "$oid": "64bc6e94fba993d5c249a5e6"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "LI",
+    "textContent": "List item",
+    "className": "",
+    "id": "",
+    "pageX": 88,
+    "pageY": 709,
+    "clientX": 88,
+    "clientY": 149
+  },
+  "unix": {
+    "$numberLong": "1690070097306"
+  },
+  "date": "22.7.2023, 23:54:57"
+},
+{
+  "_id": {
+    "$oid": "64bc6e95fba993d5c249a5e7"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "LI",
+    "textContent": "List item",
+    "className": "",
+    "id": "",
+    "pageX": 88,
+    "pageY": 709,
+    "clientX": 88,
+    "clientY": 149
+  },
+  "unix": {
+    "$numberLong": "1690070097306"
+  },
+  "date": "22.7.2023, 23:54:57"
+},
+{
+  "_id": {
+    "$oid": "64bc6e97fba993d5c249a5e8"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 47,
+    "pageY": 94,
+    "clientX": 47,
+    "clientY": 94
+  },
+  "unix": {
+    "$numberLong": "1690070097306"
+  },
+  "date": "22.7.2023, 23:54:57"
+},
+{
+  "_id": {
+    "$oid": "64bc714ead0e1c6f01ebd556"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "P",
+    "textContent": " \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  ",
+    "className": "",
+    "id": "",
+    "pageX": 751,
+    "pageY": 407,
+    "clientX": 751,
+    "clientY": 94
+  },
+  "unix": {
+    "$numberLong": "1690071374018"
+  },
+  "date": "23.7.2023, 0:16:13"
+},
+{
+  "_id": {
+    "$oid": "64bc714f31d74fb418d41119"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "load",
+    "target": {
+      "location": {
+        "ancestorOrigins": {},
+        "href": "https://chart.sentical.com/TP/index.php?browser=",
+        "origin": "https://chart.sentical.com",
+        "protocol": "https:",
+        "host": "chart.sentical.com",
+        "hostname": "chart.sentical.com",
+        "port": "",
+        "pathname": "/TP/index.php",
+        "search": "?browser=",
+        "hash": ""
+      }
+    },
+    "nodeName": "#document",
+    "textContent": null
+  },
+  "unix": {
+    "$numberLong": "1690071374736"
+  },
+  "date": "23.7.2023, 0:16:14"
+},
+{
+  "_id": {
+    "$oid": "64bc715031d74fb418d4111a"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "84.229.250.86",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "d10e7028-6066-4ee0-951e-482e43ca3246",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BLOCKQUOTE",
+    "textContent": " This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People ",
+    "className": "",
+    "id": "",
+    "pageX": 1083,
+    "pageY": 522,
+    "clientX": 1083,
+    "clientY": 209
+  },
+  "unix": {
+    "$numberLong": "1690071374736"
+  },
+  "date": "23.7.2023, 0:16:14"
+},
+{
+  "_id": {
+    "$oid": "64be8345c8bab2a1b14426a4"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MAIN",
+    "textContent": "\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 417,
+    "pageY": 215,
+    "clientX": 417,
+    "clientY": 96
+  },
+  "unix": {
+    "$numberLong": "1690206930993"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be8369c8bab2a1b14426a5"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H1",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 285,
+    "pageY": 135,
+    "clientX": 285,
+    "clientY": 16
+  },
+  "unix": {
+    "$numberLong": "1690206930993"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be836bc8bab2a1b14426a6"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "MAIN",
+    "textContent": "\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 1195,
+    "pageY": 176,
+    "clientX": 1195,
+    "clientY": 57
+  },
+  "unix": {
+    "$numberLong": "1690206930993"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be836ec8bab2a1b14426a7"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H1",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 39,
+    "pageY": 148,
+    "clientX": 39,
+    "clientY": 29
+  },
+  "unix": {
+    "$numberLong": "1690206930993"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be836f42a56e54efabeb20"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "H1",
+    "textContent": " Heading... ",
+    "className": "",
+    "id": "",
+    "pageX": 39,
+    "pageY": 148,
+    "clientX": 39,
+    "clientY": 29
+  },
+  "unix": {
+    "$numberLong": "1690206930875"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be837542a56e54efabeb21"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {
+      "0": {},
+      "1": {},
+      "2": {},
+      "3": {},
+      "4": {},
+      "5": {}
+    },
+    "name": "",
+    "nodeName": "SELECT",
+    "textContent": "\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t",
+    "className": "",
+    "id": "",
+    "pageX": 56,
+    "pageY": 2143,
+    "clientX": 56,
+    "clientY": 210
+  },
+  "unix": {
+    "$numberLong": "1690206930875"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be839642a56e54efabeb22"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "",
+    "pageX": 398,
+    "pageY": 3731,
+    "clientX": 398,
+    "clientY": 178
+  },
+  "unix": {
+    "$numberLong": "1690206930875"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be83a9d241d4b452ccbbc3"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "dob",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "dob",
+    "pageX": 118,
+    "pageY": 3555,
+    "clientX": 118,
+    "clientY": 94
+  },
+  "unix": {
+    "$numberLong": "1690206930926"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be83e3d241d4b452ccbbc4"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "dob",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "dob",
+    "pageX": 90,
+    "pageY": 3548,
+    "clientX": 90,
+    "clientY": 87
+  },
+  "unix": {
+    "$numberLong": "1690206930926"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be8424d241d4b452ccbbc5"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "name",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "name",
+    "pageX": 125,
+    "pageY": 3507,
+    "clientX": 125,
+    "clientY": 192
+  },
+  "unix": {
+    "$numberLong": "1690206930926"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be8428d241d4b452ccbbc6"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "FIELDSET",
+    "textContent": "\n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t ",
+    "className": "",
+    "id": "",
+    "pageX": 542,
+    "pageY": 3511,
+    "clientX": 542,
+    "clientY": 196
+  },
+  "unix": {
+    "$numberLong": "1690206930926"
+  },
+  "date": "24.7.2023, 13:55:30"
+},
+{
+  "_id": {
+    "$oid": "64be890a5112e3aa05a80946"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89115112e3aa05a80947"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 551,
+    "pageY": 3638,
+    "clientX": 551,
+    "clientY": 171
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89155112e3aa05a80948"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "ADDRESS",
+    "textContent": " relevant contacts mail.",
+    "className": "",
+    "id": "",
+    "pageX": 309,
+    "pageY": 3754,
+    "clientX": 309,
+    "clientY": 201
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89155112e3aa05a80949"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "browser",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "browser",
+    "pageX": 316,
+    "pageY": 3747,
+    "clientX": 316,
+    "clientY": 194
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89165112e3aa05a8094a"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 658,
+    "pageY": 3710,
+    "clientX": 658,
+    "clientY": 157
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89195112e3aa05a8094b"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 657,
+    "pageY": 3710,
+    "clientX": 657,
+    "clientY": 157
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be891b5112e3aa05a8094c"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 657,
+    "pageY": 3710,
+    "clientX": 657,
+    "clientY": 157
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be893b5112e3aa05a8094d"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be893c59dee4b9760e7a9f"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IFRAME",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be893d5112e3aa05a8094e"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 553,
+    "pageY": 3618,
+    "clientX": 553,
+    "clientY": 65
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be893e5112e3aa05a8094f"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89425112e3aa05a80950"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be894259dee4b9760e7aa0"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be894259dee4b9760e7aa1"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IFRAME",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be894459dee4b9760e7aa2"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 509,
+    "pageY": 3657,
+    "clientX": 509,
+    "clientY": 104
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be894559dee4b9760e7aa3"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 598,
+    "pageY": 3643,
+    "clientX": 598,
+    "clientY": 90
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be894959dee4b9760e7aa4"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be896559dee4b9760e7aa5"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89655112e3aa05a80951"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89655112e3aa05a80952"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IFRAME",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be896d5112e3aa05a80953"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be897e5112e3aa05a80954"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 770,
+    "pageY": 3586,
+    "clientX": 770,
+    "clientY": 33
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89805112e3aa05a80955"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "browser",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "browser",
+    "pageX": 344,
+    "pageY": 3729,
+    "clientX": 344,
+    "clientY": 176
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89835112e3aa05a80956"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 550,
+    "pageY": 3718,
+    "clientX": 550,
+    "clientY": 165
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89845112e3aa05a80957"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519588"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be898459dee4b9760e7aa6"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be898559dee4b9760e7aa7"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "IFRAME",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be898859dee4b9760e7aa8"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 56,
+    "pageY": 99,
+    "clientX": 56,
+    "clientY": 99
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be898e59dee4b9760e7aa9"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "BUTTON",
+    "textContent": "jhjhjhjhj",
+    "className": "huhu",
+    "id": "",
+    "pageX": 37,
+    "pageY": 97,
+    "clientX": 37,
+    "clientY": 97
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64be89f659dee4b9760e7aaa"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "A",
+    "textContent": "Home",
+    "className": "",
+    "id": "",
+    "pageX": 79,
+    "pageY": 59,
+    "clientX": 79,
+    "clientY": 59
+  },
+  "unix": {
+    "$numberLong": "1690208519423"
+  },
+  "date": "24.7.2023, 14:21:59"
+},
+{
+  "_id": {
+    "$oid": "64bfb559bc1dba5c7f51d617"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": null,
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690285399559"
+  },
+  "date": "25.7.2023, 11:43:19"
+},
+{
+  "_id": {
+    "$oid": "64bfb560bc1dba5c7f51d618"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": null,
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {
+      "0": {},
+      "1": {},
+      "2": {},
+      "3": {},
+      "4": {},
+      "5": {}
+    },
+    "name": "",
+    "nodeName": "SELECT",
+    "textContent": "\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t",
+    "className": "",
+    "id": "",
+    "pageX": 74,
+    "pageY": 2142,
+    "clientX": 74,
+    "clientY": 130
+  },
+  "unix": {
+    "$numberLong": "1690285399559"
+  },
+  "date": "25.7.2023, 11:43:19"
+},
+{
+  "_id": {
+    "$oid": "64bfb562bc1dba5c7f51d619"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": null,
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "P",
+    "textContent": " div > div > p ",
+    "className": "",
+    "id": "",
+    "pageX": 228,
+    "pageY": 2179,
+    "clientX": 228,
+    "clientY": 167
+  },
+  "unix": {
+    "$numberLong": "1690285399559"
+  },
+  "date": "25.7.2023, 11:43:19"
+},
+{
+  "_id": {
+    "$oid": "64bfb567bc1dba5c7f51d61a"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": null,
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "ADDRESS",
+    "textContent": " relevant contacts mail.",
+    "className": "",
+    "id": "",
+    "pageX": 357,
+    "pageY": 3752,
+    "clientX": 357,
+    "clientY": 199
+  },
+  "unix": {
+    "$numberLong": "1690285399559"
+  },
+  "date": "25.7.2023, 11:43:19"
+},
+{
+  "_id": {
+    "$oid": "64bfb567bc1dba5c7f51d61b"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": null,
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "f0e4148a-a385-46f2-9fa2-576cf0f58072",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "browser",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "browser",
+    "pageX": 358,
+    "pageY": 3739,
+    "clientX": 358,
+    "clientY": 186
+  },
+  "unix": {
+    "$numberLong": "1690285399559"
+  },
+  "date": "25.7.2023, 11:43:19"
+},
+{
+  "_id": {
+    "$oid": "64c4f5a0bc7029a2e6a6fdfb"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.228.126",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "fdf4c484-43c3-4763-9ae7-1e2f59ddde17",
+  "data": {
+    "target": {},
+    "name": "",
+    "nodeName": "IFRAME",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690629534826"
+  },
+  "date": "29.7.2023, 11:18:54"
+},
+{
+  "_id": {
+    "$oid": "64c4f5a1bc7029a2e6a6fdfc"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.228.126",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "fdf4c484-43c3-4763-9ae7-1e2f59ddde17",
+  "data": {
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690629534826"
+  },
+  "date": "29.7.2023, 11:18:54"
+},
+{
+  "_id": {
+    "$oid": "64c4f5aebc7029a2e6a6fdfd"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.228.126",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "fdf4c484-43c3-4763-9ae7-1e2f59ddde17",
+  "data": {
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690629534826"
+  },
+  "date": "29.7.2023, 11:18:54"
+},
+{
+  "_id": {
+    "$oid": "64c4f5afbc7029a2e6a6fdfe"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.228.126",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "fdf4c484-43c3-4763-9ae7-1e2f59ddde17",
+  "data": {
+    "target": {},
+    "name": "",
+    "nodeName": "IMG",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690629534826"
+  },
+  "date": "29.7.2023, 11:18:54"
+},
+{
+  "_id": {
+    "$oid": "64c4f5af478152793a341a0c"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.228.126",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "fdf4c484-43c3-4763-9ae7-1e2f59ddde17",
+  "data": {
+    "target": {},
+    "name": "",
+    "nodeName": "IFRAME",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690629551264"
+  },
+  "date": "29.7.2023, 11:19:11"
+},
+{
+  "_id": {
+    "$oid": "64c4f5b19d4061373c84125a"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.228.126",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "fdf4c484-43c3-4763-9ae7-1e2f59ddde17",
+  "data": {
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690629552949"
+  },
+  "date": "29.7.2023, 11:19:12"
+},
+{
+  "_id": {
+    "$oid": "64c79358d400ee5f91fbf6fd"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c79365d400ee5f91fbf6fe"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "LI",
+    "textContent": "List item",
+    "className": "",
+    "id": "",
+    "pageX": 543,
+    "pageY": 773,
+    "clientX": 543,
+    "clientY": 131
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c79369d400ee5f91fbf6ff"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "PRE",
+    "textContent": "\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 192,
+    "pageY": 1348,
+    "clientX": 192,
+    "clientY": 15
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c7936bd400ee5f91fbf700"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "PRE",
+    "textContent": "\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 941,
+    "pageY": 1403,
+    "clientX": 941,
+    "clientY": 70
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c793c0d400ee5f91fbf701"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "PRE",
+    "textContent": "\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 274,
+    "pageY": 1409,
+    "clientX": 274,
+    "clientY": 76
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c79404d400ee5f91fbf702"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "PRE",
+    "textContent": "\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t",
+    "className": "",
+    "id": "",
+    "pageX": 1063,
+    "pageY": 1486,
+    "clientX": 1063,
+    "clientY": 153
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c79407d400ee5f91fbf703"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "browser",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "browser",
+    "pageX": 340,
+    "pageY": 3707,
+    "clientX": 340,
+    "clientY": 214
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c7940ed400ee5f91fbf704"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "name",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "name",
+    "pageX": 135,
+    "pageY": 3491,
+    "clientX": 135,
+    "clientY": 607
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c7940fd400ee5f91fbf705"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "",
+    "nodeName": "FIELDSET",
+    "textContent": "\n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t ",
+    "className": "",
+    "id": "",
+    "pageX": 279,
+    "pageY": 3482,
+    "clientX": 279,
+    "clientY": 598
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c79410d400ee5f91fbf706"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "name": "name",
+    "nodeName": "INPUT",
+    "textContent": "",
+    "className": "",
+    "id": "name",
+    "pageX": 153,
+    "pageY": 3489,
+    "clientX": 153,
+    "clientY": 605
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c79412d400ee5f91fbf707"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "BODY",
+    "textContent": "\n\t\n\t  \n\t\tHEADER\n\t    \n\t\t   Home \n\t    \n\t  \n\t\n\t\n        jhjhjhjhj\n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   Heading... \n\t   \n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae. \n\t\t span \n\t\tBold word\n\t\titalic\n\t\temphasis\n\t\tmark \n\t\t small \n\t\t sub \n\t\t sup \n\t\t Statements... \n\t\tNASA\n\t\t strikethrough \n\t\t deprecated info   new info  \n\t\t not relevant \n\t\tlink\n\t\tMonday at 8:00 AM\n\t\truby baseannotation\n\t\t\n\t\tCTRL+ALT+CANC\n\t  \t\t\n\t\n\t\n\t This is a short quote \n\t This instead is a long quote that is going to use a lot of words and also cite who said that. —Some People \n\n\t\n\t  data tag  \n\t  data tag \n\t  data tag  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t  List item  \n\t  List item \n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t  \n\t  \n\t  \n\t  Sorry, your browser doesn't support HTML5 video, but you can\n\t  download this video from the Internet Archive.\n\t\n\n\t\n\tPlease install the Shockwave plugin to watch this movie.\n\t\n\t\n\t\n                                       _,'/\n                                  _.-''._:\n                          ,-:`-.-'    .:.|\n                         ;-.''       .::.|\n          _..------.._  / (:.       .:::.|\n       ,'.   .. . .  .`/  : :.     .::::.|\n     ,'. .    .  .   ./    \\ ::. .::::::.|\n   ,'. .  .    .   . /      `.,,::::::::.;\\\n  /  .            . /       ,',';_::::::,:_:\n / . .  .   .      /      ,',','::`--'':;._;\n: .             . /     ,',',':::::::_:'_,'\n|..  .   .   .   /    ,',','::::::_:'_,'\n|.              /,-. /,',':::::_:'_,'\n| ..    .    . /) /-:/,'::::_:',-'\n: . .     .   // / ,'):::_:',' ;\n \\ .   .     // /,' /,-.','  ./\n  \\ . .  `::./,// ,'' ,'   . /\n   `. .   . `;;;,/_.'' . . ,'\n    ,`. .   :;;' `:.  .  ,'\n   /   `-._,'  ..  ` _.-'\n  (     _,'``------'' \n   `--''\n\n\t\n\n\t\n\t// code tag\n\t#include \n\n\tusing namespace std;\n\n\tint main()\n\t{\n\t\tcout << \"Hello World!\" << endl;\n\t\treturn 0;\n\t}\n\t\n\t\n\t   variable  = 1000;\n\t  Traceback (most recent call last):NameError: name 'variabl' is not defined\n\t\n\t\n\t  \n\t\t\n\t\t  Numbers\n\t\t  Letters\n\t\t  Colors\n\t\t\n\t  \n\t  \n\t\t\n\t\t  123\n\t\t  ABC\n\t\t  RGB\n\t\t\n\t   \n\t  \n\t\t\n\t\t  1\n\t\t  A\n\t\t  Red\n\t\t\n\t\t\n\t\t  2\n\t\t  B\n\t\t  Green\n\t\t\n\t\t\n\t\t  3\n\t\t  C\n\t\t  Blue\n\t\t\n\t  \n\t\n\n\t A definition is an explanation of the meaning of a word or phrase. \n\n\t\n\t  Summary of content below\n\t  Content 1\n\t  Content 2\n\t  Content 3\n\t  Content 4\n\t\n\t\n\t  Content\n\t  Informations about content.\n\t\n\n\t\n\t25 out of 45 \n\t\n\t 2+2 = 4 \n\n\t\n\t \n\t   One\n\t   Two\n\t   Three\n\t \n\t \n\t   Four\n\t   Five\n\t   Six\n\t \n\t\n\t\n\t\n\t   \n\t\t div > div > p \n\t  \n\t  \n\t\n\t\n\t\n\t\n\t \n\t  \n\t \n\t\n\t\n\t\n\t\t  Write something in here\n\t\n\t\n\t\n\t\n\t\n\t  I'm sorry. You're browser doesn't support HTML5 audio.\n\t  \n\t  \n\t\n\tThis is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a Super VanJS Meetup. It is hosted by The Internet Archive and licensed under CC 3.0.\t\n\t\n\t\t\n\t\t\n\t\n\t  \n\t    Title of Article\n\t    by Arthur T. Writer\n\t  \n\t  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat sollicitudin nisi, at convallis nunc semper et. Donec ultrices odio ac purus facilisis, at mollis urna finibus.\n\t  \n\t    \n\t     Caption.\n\t  \n\t    Published 17 August 2020 Tags Sample Posts, html example  \n\t\n\t\n\t\n\t \n\t  Personal Information\n\t  Name\n\t  \n\t  Date of Birth\n\t  \n\t \n\t\n\t\n\t\n\t   P inside ASIDE tag \n\t\n\t    \n\t\n\t\n\t\n\t\n\t  Choose your browser from the list:\n\t  \n\t  \n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t  \n\t  \n\t\n\t\n\t\n\t   relevant contacts mail.\n\t   created by @blazardsky\n\t\n\t\n\n",
+    "className": "",
+    "id": "",
+    "pageX": 604,
+    "pageY": 3619,
+    "clientX": 604,
+    "clientY": 735
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64c79414d400ee5f91fbf708"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "193.238.189.12",
+  "type": "active_actions",
+  "subtype": "click",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "79d3925b-011c-495f-97f9-ca5029038148",
+  "data": {
+    "type": "click",
+    "target": {},
+    "nodeName": "FIGCAPTION",
+    "textContent": " Caption.",
+    "className": "",
+    "id": "",
+    "pageX": 961,
+    "pageY": 3324,
+    "clientX": 961,
+    "clientY": 440
+  },
+  "unix": {
+    "$numberLong": "1690800982728"
+  },
+  "date": "31.7.2023, 10:56:22"
+},
+{
+  "_id": {
+    "$oid": "64d2355ee0bb0c037af6d609"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.229.251",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "97389655-e7db-43bf-b53a-08659477a08b",
+  "data": {
+    "target": {},
+    "name": "",
+    "nodeName": "IFRAME",
+    "textContent": "",
+    "className": "",
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1691497821773"
+  },
+  "date": "8.8.2023, 12:30:21"
+},
+{
+  "_id": {
+    "$oid": "64d23560913b73e59058e0b1"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.229.251",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "97389655-e7db-43bf-b53a-08659477a08b",
+  "data": {
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1691497823977"
+  },
+  "date": "8.8.2023, 12:30:23"
+},
+{
+  "_id": {
+    "$oid": "64d2356e913b73e59058e0b2"
+  },
+  "key": "4407e3ffe48bfa41a31994d6d9f4c5f0b997960a48d71b41ce0d7fec4d6a2ba5",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+  "ch_platform": "\"macOS\"",
+  "ip": "147.236.229.251",
+  "type": "active_actions",
+  "subtype": "load",
+  "point_key": "c73f44b3-3ede-4750-a0e0-768028ce8202",
+  "session_key": "97389655-e7db-43bf-b53a-08659477a08b",
+  "data": {
+    "target": {},
+    "nodeName": "svg",
+    "textContent": "\n\t  \n\t",
+    "className": {},
+    "id": ""
+  },
+  "unix": {
+    "$numberLong": "1691497823977"
+  },
+  "date": "8.8.2023, 12:30:23"
+}]

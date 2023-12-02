@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "64b97c6173c0dbd05c8e4e52"
+  },
+  "email": "neryaelul@gmail.com",
+  "orgs": [
+    {
+      "id": "45454545454545",
+      "permission": 1
+    }
+  ]
+}]

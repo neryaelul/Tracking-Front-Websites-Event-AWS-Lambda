@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64b47c15bf6de9d2e7830d9a"
+  },
+  "points": [
+    {
+      "id": "fff",
+      "session": "34343434"
+    }
+  ],
+  "email": ""
+},
+{
+  "_id": {
+    "$oid": "64b6adf3b71dd8e2858ca914"
+  },
+  "type": "click",
+  "data": [],
+  "sp": [
+    {
+      "session_key": "ddd",
+      "point_key": "dddfdf"
+    }
+  ]
+}]
